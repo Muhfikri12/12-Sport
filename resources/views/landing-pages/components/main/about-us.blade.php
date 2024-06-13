@@ -4,7 +4,9 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>About Us</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p> destinasi utama Anda untuk perlengkapan olahraga berkualitas tinggi
+            dengan harga yang sangat bersahabat. Kami bangga menjadi pilihan terbaik bagi para pecinta olahraga yang
+            mencari produk premium tanpa harus mengeluarkan biaya besar.</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -12,13 +14,14 @@
         <div class="row gy-5">
 
             <div class="content col-xl-5 d-flex flex-column" data-aos="fade-up" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident quasi</h3>
+                <h3 style="font-style: italic">Harga terjangkau, <br> Kualitas Memukau !!</h3>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                    Temukan perlengkapan olahraga terbaik dengan harga yang tidak ada duanya di sini! Kami menyediakan
+                    berbagai macam gear olahraga berkualitas tinggi untuk segala kebutuhan Anda, mulai dari pakaian,
+                    sepatu, hingga peralatan latihan.
                 </p>
-                <a href="#" class="about-btn align-self-center align-self-xl-start"><span>About
-                        us</span> <i class="bi bi-chevron-right"></i></a>
+                <a href="#" class="about-btn align-self-center align-self-xl-start"><span>Eksplore
+                    </span> <i class="bi bi-chevron-right"></i></a>
             </div>
 
             <div class="col-xl-7" data-aos="fade-up" data-aos-delay="200">
